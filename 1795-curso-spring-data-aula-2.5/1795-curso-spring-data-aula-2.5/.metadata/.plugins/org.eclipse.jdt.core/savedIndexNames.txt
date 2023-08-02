@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\keven\OneDrive\Área de Trabalho\poo alura\springdata\1795-curso-spring-data-aula-2.5\1795-curso-spring-data-aula-2.5\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
